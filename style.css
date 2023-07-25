@@ -1,0 +1,48 @@
+*{
+    font-family: 'PT Sans', sans-serif;
+    
+}
+button > a {
+    text-decoration: none;
+    color: black;
+}
+section > div > div > div > img {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+li{
+    list-style: none;
+    
+}
+.skl{
+    border: 0.5px solid black;
+}
+div > ul > li > a{
+    text-decoration: none;
+    color: black;
+}
+.contact_me > div > img {
+    padding: 10px;
+    border-radius: 30%;
+    border: 2px solid black;
+}
+.headnav{
+    background-color: white;
+}
+.headnav > header > ul > li > a{
+    color: black;
+}
+.und{
+    border-bottom: 0.09rem solid lightblue;
+}
+.Und{
+    border-bottom: 0.1rem solid lightblue;
+}
+.ser1{
+    font-family: 'Prata', serif;
+}
+.UnderNav:hover{
+    color: #112D4E;
+    text-decoration: underline #112D4E;
+}
